@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  font-weight: 700;
+}
+
+* {
+  background-color:#fffcf9
+}
+
+.modal-body {
+  display: flex;
+  justify-content: space-between;
+}
+
+.leftmodal, .rightmodal {
+  flex-basis: 50%;
+}
